@@ -12,4 +12,4 @@ import cucumber.api.junit.Cucumber;
 				 "html:target/cucumber-html-reports"},
 		glue = {"com.amiya_apitest.stepdefinition"},
 		features = {"src/test/java/com/amiya_apitest/featurefiles"})
-public class CucumberTests {}
+public class CucumberRunner {}

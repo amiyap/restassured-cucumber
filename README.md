@@ -1,6 +1,6 @@
 This is a REST API test framework.
 
-Supported library and tools used:
+Library and tools used:
 1. Cucumber Framework
 2. REST Assured Lib
 3. Junit Runner
